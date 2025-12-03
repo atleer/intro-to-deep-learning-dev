@@ -1,4 +1,4 @@
-# Intro to Deep Learning Workshop Development
+# Develop Intro to Deep Learning Workshop
 
 Repository to develop materials for our Intro to Deep Learning in Python workshop on January 28-30, 2026.
 
