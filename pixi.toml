@@ -25,3 +25,7 @@ netcdf4 = ">=1.7.3,<2"
 h5netcdf = ">=1.7.3,<2"
 pydantic = ">=2.12.5,<3"
 psutil = ">=7.2.1,<8"
+graphviz = ">=14.1.0,<15"
+
+[pypi-dependencies]
+torchviz = ">=0.0.3"
