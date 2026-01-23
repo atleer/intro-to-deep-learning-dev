@@ -29,3 +29,4 @@ graphviz = ">=14.1.0,<15"
 
 [pypi-dependencies]
 torchviz = ">=0.0.3"
+torchinfo = ">=1.8.0, <2"
